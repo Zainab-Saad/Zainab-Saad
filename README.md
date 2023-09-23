@@ -63,3 +63,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zainab-saad&" alt="zainab-saad" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=zainab-saad&show_icons=true&locale=en" alt="zainab-saad" /></p>
+
+![snake gif](https://github.com/Zainab-Saad/Zainab-Saad/blob/gh-pages/github-contribution-grid-snake.gif)
