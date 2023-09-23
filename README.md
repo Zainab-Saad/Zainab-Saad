@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Zainab Saad</h1>
 <h3 align="center">A Software Engineer from Pakistan</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zainab-saad" alt="zainab-saad" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/zainab-saad-b6788b239" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zainab-saad-b6788b239" height="30" width="40" /></a>
