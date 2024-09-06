@@ -75,15 +75,26 @@
 
 <tr>
 <td>
+  <tr>
+<td>
 <h3 align="left">DevOps:</h3>
 </td>
 <td>
-<a href="https://github.com/features/actions" target="_blank" rel="noreferrer"> CI/CD using GitHub Actions </a><br>
-<a href="https://tekton.dev/" target="_blank" rel="noreferrer"> CI/CD using Tekton </a><br>
-<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> AWS </a><br>
-<a href="https://cloud.google.com/" target="_blank" rel="noreferrer"> Google Cloud Platform (GCP) </a><br>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> Docker </a><br>
-<a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> Kubernetes </a><br>
+<a href="https://github.com/features/actions" target="_blank" rel="noreferrer"> 
+  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub Actions" width="40" height="40"/> 
+</a>
+<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" width="40" height="40"/> 
+</a>
+<a href="https://cloud.google.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" width="40" height="40"/> 
+</a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="40" height="40"/> 
+</a>
+<a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> 
+  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40"/> 
+</a>
 </td>
 </tr>
 </table>
